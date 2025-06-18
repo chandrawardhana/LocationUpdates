@@ -1,0 +1,7 @@
+
+global.json
+
+LocationUpdates/bin/
+LocationUpdates/obj/
+/.vs
+/README.md
